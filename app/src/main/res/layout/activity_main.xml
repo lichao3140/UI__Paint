@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+
+    <!--<com.lqh.lichao.ui_lsn3_paint.MyView
+        android:id="@+id/myview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>-->
+
+    <!--<com.lqh.lichao.ui_lsn3_paint.PathDashPathView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>-->
+
+
+    <!--dashEffect 动画view -->
+    <com.lqh.lichao.ui_lsn3_paint.MyDashView
+        android:id="@+id/my_dash_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</LinearLayout>
